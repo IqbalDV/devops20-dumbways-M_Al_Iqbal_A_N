@@ -1,0 +1,23 @@
+Operating System & Linux Server Task :
+1. Cari perbedaan antara distro Ubuntu dan CentOS!
+2. Apa perbedaan dari CLI & GUI?
+3. Di VM masing-masing :
+- Install nginx, lalu akses melalui browser/ `curl <ip kalian>`
+- Ganti IP address kalian (bebas) lalu akses kembali nginx (`/etc/netplan`)
+4. Terangkan fungsi systemctl dan contoh commandnya (gunakan nginx)
+
+1.	Ubuntu:
+-	Distro linux berbasiskan debian
+-	Lebih banyak resource dan support community.
+CentOS:
+-	Distro linux berbasiskan Red Hat Enterprise Linux.
+-	Lebih stabil dan aman karena lebih jarang update.
+2.	CLI: Command Line Interface
+Interface yang tidak memanfaatkan tampilan visual dan hanya berbasis tulisan. Penggunaan berbasis command yang langsung diketik ke terminal.
+GUI:Graphical User Interface
+Interface yang memanfaatkan interaksi pengguna dengan elemen-elemen visual seperti gambar dan ikon.
+3.	- Login ke VM server yang ingin diinstall nginx
+-	Run command sudo apt update untuk memastikan directory apt file di server sudah bisa diakses
+-	Run command sudo apt install nginx untuk menginstall nginx
+ 
+4.	Systemctl adalah fungsi command untuk berinteraksi dengan systemd yang merupakan system manager yang digunakan oleh ubuntu untuk mengatur dan menjalankan servis yang berada di server. Dengan systemctl, seseorang dapat mengecek status sebuah servis dengan command systemctl status service_name, memulai sebuah servis dengan systemctl start service_name, atau memberhentikan sebuah servis dengan systemctl stop service_name.

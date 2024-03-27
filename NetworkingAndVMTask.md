@@ -25,8 +25,10 @@ IP berubah-ubah setiap jaringan
 
 2.	Virtualization adalah teknologi untuk membagi sebuah resource besar seperti server menjadi resource kecil yang dapat melakukan tasknya sendiri. Seperti virtual machine.
 
-3.![image](https://github.com/IqbalDV/devops20-dumbways-M_Al_Iqbal_A_N/assets/164293632/87ad5f8c-6886-466e-9a07-85ff4b7d1b71)
-4.	- 	Buka VMWare dan create a new virtual machine:
+3.
+![image](https://github.com/IqbalDV/devops20-dumbways-M_Al_Iqbal_A_N/assets/164293632/87ad5f8c-6886-466e-9a07-85ff4b7d1b71)
+4.
+- 	Buka VMWare dan create a new virtual machine:
  ![image](https://github.com/IqbalDV/devops20-dumbways-M_Al_Iqbal_A_N/assets/164293632/2d9cdb0d-d9de-444d-9027-57adbf7ee2a1)
 
 -	Cari disc image OS yang diinginkan lalu load ke VM
@@ -48,7 +50,8 @@ IP berubah-ubah setiap jaringan
  ![image](https://github.com/IqbalDV/devops20-dumbways-M_Al_Iqbal_A_N/assets/164293632/db79ea40-d600-4364-882b-1c15e2d72d6c)
 
 -	Reboot VM untuk menyelesaikan penginstallan.
- ![image](https://github.com/IqbalDV/devops20-dumbways-M_Al_Iqbal_A_N/assets/164293632/1245c94b-8bfb-412a-b701-cb6fb87c1626)
+
+![image](https://github.com/IqbalDV/devops20-dumbways-M_Al_Iqbal_A_N/assets/164293632/1245c94b-8bfb-412a-b701-cb6fb87c1626)
 
 -	Instalasi sudah selesai.
  ![image](https://github.com/IqbalDV/devops20-dumbways-M_Al_Iqbal_A_N/assets/164293632/d141f2a7-3afe-4a09-8e35-8dbaa4d00ef0)

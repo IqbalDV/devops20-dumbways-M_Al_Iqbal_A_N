@@ -38,7 +38,8 @@ IP berubah-ubah setiap jaringan
 ![image](https://github.com/IqbalDV/devops20-dumbways-M_Al_Iqbal_A_N/assets/164293632/0f8fe9a6-0fda-4289-afbe-037de7fecdcb)
  
 -	Jalankan proses instalasi
- ![image](https://github.com/IqbalDV/devops20-dumbways-M_Al_Iqbal_A_N/assets/164293632/c650d98b-a5ab-4380-aa82-8ee4e5a0f081)
+
+![image](https://github.com/IqbalDV/devops20-dumbways-M_Al_Iqbal_A_N/assets/164293632/c650d98b-a5ab-4380-aa82-8ee4e5a0f081)
 
 -	Setting koneksi VM menjadi koneksi statis untuk memisahkan koneksi dengan komputer utama.
 ![image](https://github.com/IqbalDV/devops20-dumbways-M_Al_Iqbal_A_N/assets/164293632/bd78cb1e-1f33-4257-8133-dcfa3de72b77)
@@ -54,7 +55,8 @@ IP berubah-ubah setiap jaringan
 ![image](https://github.com/IqbalDV/devops20-dumbways-M_Al_Iqbal_A_N/assets/164293632/1245c94b-8bfb-412a-b701-cb6fb87c1626)
 
 -	Instalasi sudah selesai.
- ![image](https://github.com/IqbalDV/devops20-dumbways-M_Al_Iqbal_A_N/assets/164293632/d141f2a7-3afe-4a09-8e35-8dbaa4d00ef0)
+
+![image](https://github.com/IqbalDV/devops20-dumbways-M_Al_Iqbal_A_N/assets/164293632/d141f2a7-3afe-4a09-8e35-8dbaa4d00ef0)
 
 
 
